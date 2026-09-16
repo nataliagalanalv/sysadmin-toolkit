@@ -1,39 +1,49 @@
 from os_utils import check_ping, check_disk_space
+from log_parser import parse_failed_ips
 
-def mostrar_menu() -> None:
-    print("=== Toolkit Sysadmin ===")
-    print("1. Comprobar conectividad (ping)")
-    print("2. Comprobar espacio en disco")
-    print("3. Parsear log SSH")
-    print("4. Auditar dispositivo de red")
-    print("5. Consultar IP sospechosa")
-    print("0. Salir")
+def show_menu() -> None:
+    print("=== Sysadmin Toolkit ===")
+    print("1. Check connectivity (ping)")
+    print("2. Check disk space")
+    print("3. Parse SSH log")
+    print("4. Audit network device")
+    print("5. Look up suspicious IP")
+    print("0. Exit")
 
 def main() -> None:
     while True:
-        mostrar_menu()
-        opcion: str = input("Elige una opción: ")
+        show_menu()
+        option: str = input("Choose an option: ")
 
-        if opcion == "0":
-            print("Saliendo del programa...")
+        if option == "0":
+            print("Exiting program...")
             break
 
-        elif opcion == "1":
-            ip: str = input("Introduce la dirección IP a comprobar: ")
+        elif option == "1":
+            ip: str = input("Enter the IP address to check: ")
             if check_ping(ip):
-                print(f"Conectividad con {ip} exitosa.")
+                print(f"Connectivity to {ip} successful.")
             else:
-                print(f"No se pudo establecer conectividad con {ip}.")
+                print(f"Could not establish connectivity to {ip}.")
 
-        elif opcion == "2":
-            path: str = input("Introduce la ruta del disco a comprobar (por defecto C:\\): ") or "C:\\"
+        elif option == "2":
+            path: str = input("Enter the disk path to check (default C:\\): ") or "C:\\"
             percentage_free = check_disk_space(path)
             if percentage_free >= 20:
-                print(f"Espacio en disco en {path} suficiente.")
+                print(f"Disk space at {path} is sufficient.")
             else:
-                print(f"Advertencia: Hay menos del 20% de espacio libre en {path}.")
+                print(f"Warning: less than 20% free disk space at {path}.")
+
+        elif option == "3":
+            log_path: str = input("Enter the path to the SSH log file: ")
+            failed_ips, unique_ips = parse_failed_ips(log_path)
+            print(f"Unique IPs detected: {unique_ips}")
+            print("IPs with failed connection attempts:")
+            for ip, count in failed_ips.items():
+                print(f"{ip}: {count} failed attempt(s)")
+
         else:
-            print("Opción no implementada aún")
+            print("Option not implemented yet") 
 
 if __name__ == "__main__":
     main()

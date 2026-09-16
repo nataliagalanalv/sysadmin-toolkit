@@ -4,14 +4,14 @@ import shutil
 
 def check_ping(ip: str) -> bool:
     
-    sistema = platform.system()
-    if sistema == "Windows":
-        param = ["ping", "-n", "1", ip]
+    system = platform.system()
+    if system == "Windows":
+        command = ["ping", "-n", "1", ip]
     else:
-        param = ["ping", "-c", "1", ip]
+        command = ["ping", "-c", "1", ip]
 
     try:
-        subprocess.run(param, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        subprocess.run(command, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         return True
     except subprocess.CalledProcessError:
         return False
