@@ -1,0 +1,1001 @@
+hostname,ip,os,ram_gb,department
+email-88.thompson-smith.com,174.42.42.35,CentOS,8,Finance
+web-61.thompson.com,26.157.141.190,Windows Server,2,Sales
+lt-40.gibson.com,120.197.41.105,Windows Server,8,HR
+db-34.brock-hunt.com,189.72.34.13,Ubuntu,4,Sales
+web-79.smith-nelson.net,36.2.105.140,Ubuntu,4,IT
+srv-11.fox.info,202.5.181.212,Ubuntu,32,HR
+db-28.jackson-mendoza.com,217.247.198.75,CentOS,16,Finance
+email-14.bernard.com,76.87.77.133,Debian,32,IT
+db-59.powell.com,139.190.128.239,CentOS,32,Sales
+laptop-93.martinez.biz,36.94.132.30,Windows Server,16,Finance
+lt-64.nicholson.com,53.21.101.124,Ubuntu,2,HR
+web-62.thompson-mann.com,223.186.9.55,Ubuntu,4,Finance
+web-35.forbes.com,94.223.233.202,Windows Server,8,HR
+email-81.summers-murray.org,72.254.102.87,Ubuntu,32,Finance
+desktop-51.cook-callahan.net,5.205.139.182,Windows Server,2,HR
+db-11.patton-galloway.net,47.235.84.165,CentOS,8,IT
+email-41.nelson.com,92.72.192.0,Debian,8,Finance
+db-89.golden.com,220.91.138.54,Windows Server,2,HR
+desktop-95.dean.com,144.194.149.161,CentOS,32,Finance
+srv-39.barnes.com,49.10.167.123,Debian,16,Sales
+laptop-43.cannon.com,114.203.203.203,Ubuntu,2,Sales
+srv-90.krause-ross.com,120.157.34.214,Ubuntu,4,Finance
+web-57.gill.info,36.195.110.14,Windows Server,8,Finance
+laptop-02.archer-simpson.biz,197.116.1.236,Debian,2,Sales
+lt-76.gomez.com,105.159.127.76,CentOS,8,IT
+db-11.orr.biz,38.151.24.89,CentOS,2,Finance
+web-53.golden-parks.com,9.252.196.178,CentOS,32,IT
+srv-23.fuller.net,53.85.90.221,Windows Server,4,Finance
+lt-49.salinas-keller.net,108.113.187.147,Debian,2,IT
+laptop-30.burke.com,52.229.132.32,Ubuntu,8,HR
+email-78.davis.com,115.210.74.142,Debian,16,Finance
+web-35.bowman.org,12.163.208.212,Debian,2,HR
+desktop-38.garcia.org,46.27.173.191,Windows Server,8,Sales
+srv-38.miller.com,192.253.57.86,Ubuntu,2,Sales
+lt-31.oliver-morales.com,222.139.253.190,Ubuntu,2,IT
+lt-74.ramsey.com,36.123.0.240,Windows Server,4,IT
+srv-27.webster-wright.com,169.119.175.110,CentOS,2,Sales
+email-98.garcia.com,11.125.52.104,Windows Server,8,IT
+laptop-36.mccoy.com,62.89.212.148,Windows Server,32,HR
+lt-01.baldwin.net,37.144.233.103,CentOS,32,Sales
+email-72.santos.biz,218.70.193.66,Windows Server,32,IT
+desktop-13.davis.com,186.85.57.231,CentOS,16,Sales
+desktop-10.hooper-white.org,159.223.221.196,Debian,16,IT
+email-50.dominguez-boyle.biz,20.44.102.190,Ubuntu,4,Sales
+laptop-33.moore.com,160.236.105.8,CentOS,16,Finance
+desktop-67.holloway.com,201.216.104.206,Windows Server,16,Sales
+email-52.nolan.org,93.116.4.13,CentOS,8,Sales
+email-37.preston.com,60.76.87.22,CentOS,16,Finance
+web-39.johnson-perkins.com,60.154.176.5,Debian,2,Finance
+desktop-77.baxter.biz,111.188.83.38,Debian,32,IT
+web-07.miller.com,146.225.102.32,CentOS,32,IT
+desktop-68.baker-mccarthy.com,12.160.88.157,Ubuntu,32,Sales
+desktop-59.martinez.com,192.43.58.120,Debian,8,HR
+desktop-23.webster.com,124.171.236.51,Debian,8,Finance
+web-36.smith.info,81.119.61.17,Debian,8,Finance
+db-75.coffey-kim.com,217.116.53.52,Debian,8,Sales
+srv-70.howell-clark.biz,184.101.44.29,Debian,4,IT
+srv-31.flores.com,153.72.232.84,Ubuntu,32,Sales
+email-86.hughes.info,81.82.233.4,Ubuntu,8,IT
+db-28.mcmahon.com,161.71.98.49,Ubuntu,4,IT
+db-48.peterson.net,195.162.141.57,Ubuntu,16,IT
+laptop-08.kelly.com,38.175.192.251,Ubuntu,8,Sales
+laptop-72.walker-alvarez.com,213.205.211.241,Ubuntu,2,Sales
+web-51.anderson.biz,55.175.247.133,CentOS,2,IT
+lt-43.shea.com,175.247.172.113,Debian,8,HR
+laptop-27.myers.com,32.71.72.148,CentOS,16,Finance
+lt-41.mcbride-evans.com,32.179.54.187,Ubuntu,2,Sales
+lt-01.johnson.com,155.29.161.214,Debian,8,HR
+db-78.nguyen.com,25.205.176.199,CentOS,8,IT
+lt-43.wilson-bell.com,104.143.222.241,Ubuntu,4,HR
+email-50.fitzpatrick-hampton.com,65.194.159.138,Windows Server,32,IT
+desktop-91.conway.com,223.52.55.60,CentOS,32,HR
+srv-83.hutchinson.com,199.237.107.40,Ubuntu,32,Sales
+db-90.miller-thompson.com,23.254.32.192,Debian,16,HR
+desktop-72.allison-jimenez.com,122.191.209.43,Windows Server,4,IT
+web-51.walker.com,80.56.206.186,Debian,8,Sales
+desktop-47.kelly.com,12.68.52.238,Windows Server,2,Finance
+srv-21.jefferson.com,165.248.128.160,Windows Server,2,IT
+lt-03.sullivan.com,96.111.27.77,Windows Server,8,Finance
+laptop-13.rush.com,14.79.13.213,Debian,4,IT
+laptop-94.hoffman.com,197.129.159.71,Debian,8,Finance
+desktop-92.jones.org,99.127.72.48,CentOS,16,IT
+db-05.sweeney.org,139.211.235.152,Debian,32,IT
+web-68.myers.org,187.117.228.199,Windows Server,4,IT
+lt-24.watkins.com,185.10.159.153,Windows Server,2,HR
+db-28.harris-bryant.biz,180.174.238.227,Windows Server,2,Sales
+email-42.bradshaw.net,116.62.54.140,Debian,2,HR
+email-20.carter-harris.net,130.56.43.255,Windows Server,16,IT
+db-25.ross-austin.com,195.122.157.190,Windows Server,16,Sales
+lt-10.reed-gardner.com,197.90.19.162,Windows Server,8,IT
+web-85.donovan-reeves.com,126.103.185.136,Ubuntu,16,HR
+laptop-96.bennett.com,165.120.191.242,Windows Server,4,HR
+lt-10.phillips.info,180.116.153.173,Debian,32,HR
+lt-98.wilson.info,156.67.17.150,Ubuntu,2,Finance
+lt-16.ball-potter.com,90.254.208.252,CentOS,4,Sales
+db-61.davis.com,75.137.45.45,Debian,16,IT
+db-13.lee.com,109.180.59.193,CentOS,2,IT
+email-04.garcia-cameron.com,183.212.68.183,Windows Server,4,Finance
+srv-12.mendez-mueller.com,94.46.21.95,Ubuntu,2,HR
+srv-19.walton.com,77.114.0.118,CentOS,16,Finance
+srv-11.conway-boyd.com,138.145.76.23,Debian,16,Sales
+desktop-57.rios-perez.com,133.143.154.85,Debian,2,HR
+email-04.parker.com,75.61.84.152,Windows Server,32,HR
+laptop-90.stephens.com,66.139.193.87,Debian,4,IT
+lt-79.anderson.biz,218.223.222.136,Windows Server,8,Finance
+srv-16.hartman.com,163.5.253.93,Ubuntu,16,HR
+lt-99.miller.com,25.248.73.104,Ubuntu,2,Finance
+email-47.wilson-bright.org,96.159.148.175,CentOS,2,Sales
+desktop-70.simmons-washington.org,153.126.137.250,Windows Server,4,Sales
+db-19.ramirez.biz,212.222.201.105,Windows Server,32,Finance
+email-69.payne.com,89.134.109.98,Debian,32,HR
+email-92.blevins.com,196.110.240.219,Debian,8,Finance
+srv-31.contreras-lynn.com,195.121.67.58,Ubuntu,8,IT
+web-40.griffin.info,141.162.255.185,CentOS,2,Sales
+lt-75.henry.com,13.43.211.73,Windows Server,2,IT
+db-73.baker.com,60.157.7.172,CentOS,16,Sales
+laptop-00.greene.com,88.73.84.61,Debian,4,Sales
+email-84.contreras.com,177.84.240.2,Debian,32,Finance
+srv-77.smith-hahn.com,54.23.159.229,CentOS,4,Sales
+db-87.hatfield.com,188.119.208.122,Ubuntu,32,Finance
+desktop-83.patel-thompson.com,170.219.42.30,CentOS,32,IT
+srv-44.brown.com,58.211.251.152,Ubuntu,32,Finance
+laptop-48.lawrence-watts.com,48.172.196.204,CentOS,32,Finance
+laptop-07.wilson.com,215.141.65.161,CentOS,8,IT
+db-86.henderson.net,202.7.150.57,Ubuntu,8,Finance
+web-05.morgan.org,125.90.106.220,Windows Server,32,Sales
+desktop-39.sutton.com,145.31.176.196,Debian,8,IT
+laptop-33.rogers.com,47.144.75.127,CentOS,2,Sales
+desktop-26.rodriguez.org,96.0.32.204,Windows Server,4,HR
+laptop-84.williams.com,211.183.123.26,Windows Server,32,IT
+web-54.lopez.biz,126.203.117.73,Ubuntu,32,HR
+srv-61.porter.com,211.196.13.9,Windows Server,4,HR
+web-53.reese-figueroa.info,1.166.11.165,Windows Server,16,Sales
+email-31.mills.com,180.67.131.112,CentOS,8,IT
+desktop-32.neal.biz,132.78.39.145,Debian,4,Finance
+desktop-37.lopez-romero.net,9.139.213.177,Debian,8,Finance
+desktop-93.doyle.com,6.30.121.83,CentOS,2,IT
+email-26.moore.org,128.46.106.105,Debian,4,Sales
+email-09.pearson.net,49.177.116.47,Windows Server,32,Sales
+desktop-69.sullivan.biz,41.67.246.138,Debian,2,Sales
+srv-92.alvarez.org,3.192.32.231,Windows Server,8,HR
+desktop-43.long.info,166.178.203.169,CentOS,32,Sales
+desktop-28.shields.org,200.175.134.178,Windows Server,4,IT
+srv-30.wood-baker.com,61.228.180.14,Windows Server,32,Finance
+srv-55.barnett-woodward.com,53.219.202.154,Ubuntu,8,Finance
+web-38.dominguez.org,135.53.16.93,CentOS,2,Finance
+db-92.ramirez.biz,1.114.103.74,CentOS,4,Finance
+lt-51.park-baird.info,62.129.86.215,Debian,32,Sales
+email-33.carter.com,217.70.105.234,Windows Server,32,Finance
+email-65.alexander-allen.com,85.28.216.101,Windows Server,16,Sales
+email-91.steele.com,15.169.80.8,Windows Server,16,Sales
+laptop-59.thomas-long.biz,119.145.33.34,Debian,32,IT
+srv-44.morrison.net,11.232.227.88,Ubuntu,32,Finance
+desktop-38.davenport.net,96.154.133.102,Ubuntu,4,IT
+db-18.garcia.info,50.188.99.92,Ubuntu,2,Finance
+lt-08.reed.net,43.202.13.189,Debian,32,IT
+laptop-55.anderson.biz,195.250.251.249,Debian,16,IT
+db-66.chavez.com,70.116.13.29,Debian,2,Finance
+lt-45.carson-gomez.biz,53.203.91.31,Debian,8,Sales
+web-92.gregory.com,57.122.251.221,CentOS,4,HR
+srv-16.aguilar-olsen.com,56.255.13.66,Windows Server,4,IT
+laptop-09.kemp-west.com,217.54.26.201,CentOS,16,IT
+email-47.greene.com,170.172.221.57,Windows Server,8,Sales
+srv-78.king.biz,81.172.218.83,Ubuntu,32,Sales
+email-08.tran.com,105.234.79.64,Windows Server,4,HR
+srv-87.boyd-taylor.com,218.146.180.170,CentOS,8,Finance
+email-44.delacruz-jones.org,104.66.49.106,Ubuntu,16,Sales
+srv-62.bray.com,217.24.86.154,Debian,16,Sales
+srv-96.perry.org,98.85.108.231,Debian,16,IT
+laptop-97.spencer.net,218.30.249.233,Ubuntu,8,Finance
+email-79.giles-tucker.info,95.203.78.107,Debian,4,HR
+db-08.miller.com,101.123.105.218,Ubuntu,16,Sales
+lt-10.owens.com,72.119.155.235,Debian,32,Sales
+lt-51.wilson.com,134.161.155.89,Ubuntu,2,Finance
+email-74.davis.info,114.13.103.58,Windows Server,16,IT
+email-99.boyd.com,52.1.84.183,CentOS,32,Finance
+db-88.flowers.com,15.232.191.137,CentOS,2,IT
+srv-21.green-thomas.com,123.237.255.255,Debian,8,Finance
+web-55.freeman-conner.net,106.59.101.59,Windows Server,32,Sales
+db-56.lee.info,60.27.158.30,Ubuntu,32,Finance
+laptop-01.reyes-hall.com,162.149.147.223,Debian,2,HR
+email-94.morales.com,124.129.103.47,Debian,4,Sales
+lt-73.rodriguez.biz,47.106.23.90,Debian,32,IT
+lt-64.robbins.org,61.171.154.191,Windows Server,4,HR
+desktop-43.tucker-hill.net,145.196.216.243,Ubuntu,16,Sales
+web-83.blanchard-beck.com,209.155.206.115,Windows Server,8,HR
+lt-53.palmer.biz,144.146.207.5,Ubuntu,32,IT
+desktop-70.davis.com,204.74.147.97,Windows Server,8,IT
+lt-18.farley.com,136.177.139.166,CentOS,2,Finance
+laptop-71.meyer.biz,46.197.163.213,Windows Server,32,Sales
+desktop-85.brown.com,92.20.32.31,Debian,32,Finance
+web-41.shepherd.biz,72.110.226.187,Debian,16,Finance
+desktop-36.cox.com,118.210.43.176,Ubuntu,8,Sales
+lt-24.pena.com,187.185.48.3,CentOS,8,IT
+db-33.welch-pena.org,106.248.155.205,Debian,32,Finance
+web-37.graham.biz,140.96.6.238,Debian,8,HR
+laptop-68.gentry.com,196.25.48.235,Windows Server,4,HR
+desktop-32.bond.com,122.132.251.3,Ubuntu,8,HR
+laptop-37.olson.com,168.101.249.99,Ubuntu,4,Finance
+email-64.bridges.com,174.153.133.72,CentOS,16,Sales
+desktop-61.carter-gentry.com,134.34.118.104,Ubuntu,32,Sales
+email-06.smith.com,49.210.246.38,Debian,8,HR
+lt-93.smith-hansen.org,3.157.51.233,CentOS,32,IT
+srv-06.kim-howard.com,216.147.100.174,Windows Server,32,HR
+desktop-06.clark-allison.com,123.158.77.87,Debian,32,HR
+srv-03.grant.com,175.147.61.88,Windows Server,8,Sales
+web-33.frederick.net,203.188.182.249,Debian,4,IT
+lt-03.miller.com,179.184.205.159,Debian,32,IT
+lt-70.moses.com,182.100.209.48,CentOS,16,HR
+db-17.harrison.biz,78.198.191.64,Ubuntu,16,IT
+web-01.hall.com,197.76.89.98,Debian,8,Finance
+lt-51.perkins-hernandez.com,29.40.148.245,CentOS,8,Finance
+web-38.bennett.com,180.192.179.247,Windows Server,4,Finance
+email-65.ramirez.com,47.223.131.60,Windows Server,4,HR
+db-91.brown.com,156.226.231.14,Ubuntu,4,IT
+srv-69.todd.biz,131.19.198.1,CentOS,32,Sales
+laptop-18.clark-garner.com,157.120.232.69,Ubuntu,4,HR
+laptop-04.schultz.com,90.136.51.26,Windows Server,2,Sales
+srv-69.thompson-edwards.com,209.70.150.176,Debian,4,HR
+email-43.webb-hamilton.biz,206.57.207.48,Debian,8,Sales
+lt-18.swanson-pierce.com,138.104.116.71,Debian,4,HR
+db-79.thomas.com,44.215.244.80,Windows Server,2,Sales
+db-66.lane.com,147.114.70.63,Debian,8,Sales
+email-58.brennan-curry.com,194.101.66.60,Debian,32,Finance
+web-27.torres.org,65.31.20.36,CentOS,16,IT
+laptop-65.cooper-palmer.com,1.113.250.114,CentOS,16,IT
+email-14.flores.com,1.17.123.87,Windows Server,32,HR
+desktop-14.bates-chen.com,214.28.230.120,Debian,8,IT
+db-13.hayes-gilbert.com,47.201.32.39,Windows Server,4,Sales
+web-38.riley.info,93.92.7.23,Ubuntu,16,HR
+laptop-77.carpenter-cox.net,205.41.64.208,Windows Server,4,Sales
+laptop-91.scott.org,89.204.132.38,Debian,4,IT
+laptop-82.smith.com,6.254.181.16,Debian,8,HR
+db-99.davis.com,131.100.151.48,Debian,4,Finance
+web-71.galloway.com,108.90.124.17,CentOS,32,Finance
+email-02.hull.com,86.138.50.126,CentOS,8,Sales
+srv-40.clark.com,73.5.84.176,Windows Server,4,IT
+web-07.gonzalez-henry.info,184.152.221.130,Windows Server,32,Sales
+laptop-79.perez.info,57.223.141.81,Windows Server,32,Sales
+lt-34.solomon.net,214.165.93.35,CentOS,2,IT
+db-93.watkins-mitchell.com,123.28.27.237,Windows Server,8,Finance
+lt-54.rodriguez.org,220.99.90.52,Windows Server,8,Finance
+email-42.whitehead.com,52.105.73.3,Debian,8,Sales
+laptop-54.dominguez.com,91.202.136.47,Debian,4,HR
+web-90.rogers.com,85.176.92.41,Windows Server,16,Sales
+laptop-62.nelson-wilson.info,34.122.106.107,Debian,32,IT
+lt-68.ramirez.net,199.134.135.63,Windows Server,32,Sales
+srv-03.marshall.com,187.139.174.17,Debian,8,Finance
+web-13.taylor-ali.net,76.76.85.143,Windows Server,2,HR
+laptop-14.williams-valdez.com,36.18.179.33,Windows Server,4,HR
+srv-46.gentry.org,203.18.128.168,CentOS,16,HR
+desktop-46.lynch.com,8.160.153.195,Ubuntu,8,Finance
+desktop-63.lynch.com,170.166.3.228,Windows Server,4,Sales
+email-83.reeves.net,142.211.155.28,Ubuntu,16,IT
+email-70.smith.com,91.202.161.221,Ubuntu,8,Sales
+desktop-68.keith-thomas.info,4.120.168.97,Windows Server,32,HR
+srv-16.doyle-campbell.biz,25.43.213.16,CentOS,4,Sales
+web-96.nelson-gillespie.org,166.191.197.193,Windows Server,32,Finance
+desktop-60.nelson.biz,195.223.105.214,Ubuntu,32,IT
+lt-09.cunningham.com,102.170.217.5,CentOS,4,HR
+web-64.cameron-blanchard.com,74.10.245.181,Debian,8,Sales
+srv-18.allen.net,31.209.12.21,Ubuntu,32,Finance
+laptop-29.hall.net,34.6.146.235,Debian,2,Finance
+email-79.chang.com,100.49.44.150,Debian,8,Sales
+lt-61.barrett.com,129.49.53.3,Ubuntu,8,Finance
+laptop-77.reyes.com,30.29.168.192,Windows Server,32,HR
+lt-01.hart.com,44.115.68.91,Ubuntu,2,IT
+lt-60.solomon-rodriguez.info,88.161.43.252,Ubuntu,32,HR
+email-40.baldwin-price.info,209.197.84.102,CentOS,16,Sales
+web-49.avila.biz,42.159.13.16,Ubuntu,16,Finance
+srv-46.barr-warner.org,191.18.87.40,Windows Server,16,IT
+db-05.marquez.org,167.234.14.78,Ubuntu,16,Sales
+email-35.owens.com,216.110.125.97,Windows Server,32,Finance
+web-99.reynolds-austin.com,19.191.206.86,CentOS,16,Sales
+laptop-86.lopez-foster.com,183.40.253.149,CentOS,4,HR
+srv-19.pearson-stewart.info,157.57.202.62,Ubuntu,4,Sales
+srv-02.richardson.info,101.229.87.195,Windows Server,4,Sales
+srv-78.stevenson-fischer.info,5.94.114.5,Ubuntu,2,IT
+laptop-55.west-ellis.com,214.153.133.213,CentOS,2,Finance
+db-02.price.com,13.152.29.16,Ubuntu,8,IT
+db-38.garrett-davenport.com,22.194.23.23,CentOS,2,Finance
+web-70.schultz-steele.com,202.136.180.140,CentOS,4,IT
+email-27.stewart.com,15.22.180.161,Debian,2,HR
+desktop-70.anderson-griffin.info,47.183.154.242,Windows Server,32,HR
+laptop-95.salazar.net,73.201.186.242,CentOS,16,HR
+web-59.tyler.org,126.219.74.43,CentOS,32,HR
+srv-72.santiago.com,192.220.206.88,Windows Server,8,Finance
+email-77.hartman.com,64.162.36.202,CentOS,4,HR
+web-84.montgomery-andrews.com,4.207.70.58,Windows Server,2,HR
+lt-39.williams-smith.net,185.20.30.172,CentOS,8,Finance
+web-16.may.com,218.93.26.45,CentOS,8,Finance
+laptop-61.duncan.org,177.253.218.101,Debian,32,HR
+laptop-72.cruz-moore.com,151.186.88.78,Windows Server,2,HR
+desktop-26.watson.info,174.98.183.160,Windows Server,16,HR
+db-19.knapp-poole.com,31.171.97.238,CentOS,8,Sales
+web-94.smith.org,112.105.105.132,Ubuntu,32,Finance
+desktop-84.arias-green.com,34.97.247.48,CentOS,8,IT
+db-35.berg-hess.com,153.121.55.205,CentOS,8,Sales
+db-81.hayes.info,20.131.54.91,CentOS,8,HR
+lt-85.matthews.net,2.166.49.20,Ubuntu,32,Sales
+lt-59.pacheco.biz,10.147.226.148,CentOS,16,Sales
+web-57.love-strong.com,101.5.41.147,Debian,32,Finance
+lt-60.vasquez-sexton.com,178.27.83.93,Windows Server,16,Finance
+lt-54.torres.com,39.225.161.104,Windows Server,32,Finance
+desktop-99.jones.com,60.64.140.236,CentOS,4,Sales
+srv-62.lopez-smith.com,94.131.68.102,Windows Server,32,HR
+desktop-53.coleman-brewer.com,205.115.109.197,CentOS,32,Finance
+desktop-50.baker-cook.net,167.169.229.222,Ubuntu,16,HR
+db-71.perkins.biz,123.67.123.73,Debian,2,HR
+laptop-66.smith.info,83.234.32.208,Debian,4,Sales
+email-83.frazier-smith.com,178.149.219.122,Windows Server,2,IT
+web-33.williamson.org,133.23.19.231,CentOS,16,Sales
+lt-19.huffman.com,87.213.21.178,Debian,4,Finance
+web-90.thompson.com,69.73.218.228,Windows Server,2,Sales
+laptop-27.guzman-hays.com,125.214.147.238,Windows Server,4,HR
+lt-67.vasquez.info,66.125.235.93,CentOS,32,Sales
+email-96.carey-martin.com,185.31.54.198,CentOS,4,HR
+laptop-20.hicks.net,30.214.140.59,Ubuntu,2,IT
+lt-78.lyons-cole.com,5.236.218.244,CentOS,16,Sales
+email-77.webb.com,84.0.9.222,Ubuntu,16,HR
+lt-64.escobar.info,221.6.231.158,Windows Server,16,HR
+laptop-81.perry.com,79.159.100.85,Ubuntu,8,Finance
+web-39.floyd.com,74.19.212.54,Debian,2,HR
+desktop-09.thompson.com,119.154.243.161,Debian,32,HR
+email-78.thomas.com,41.206.8.13,CentOS,4,Sales
+desktop-70.smith.com,208.197.23.193,Windows Server,2,Sales
+laptop-06.yoder-peterson.net,110.132.197.6,CentOS,8,HR
+laptop-45.anderson-molina.com,164.237.174.179,Ubuntu,2,Sales
+desktop-38.thompson.biz,136.65.177.237,Ubuntu,8,HR
+db-05.miller-smith.com,173.183.153.143,CentOS,8,IT
+lt-42.bradley-rhodes.com,135.37.55.245,Windows Server,16,Sales
+desktop-23.burnett.net,84.55.143.87,CentOS,32,HR
+web-16.reyes.org,137.42.121.68,Debian,4,Finance
+srv-72.rodriguez.com,98.142.225.221,Debian,2,IT
+lt-44.booker.net,15.199.141.3,Ubuntu,16,Sales
+desktop-86.lee.com,68.231.30.152,Ubuntu,4,Finance
+desktop-86.dorsey.biz,65.105.67.143,Windows Server,8,HR
+web-65.gonzalez.com,124.193.145.136,Ubuntu,4,HR
+email-85.monroe.org,202.162.246.137,Debian,32,HR
+desktop-88.luna.net,167.238.70.36,Windows Server,8,HR
+srv-21.collins.com,205.45.104.134,Windows Server,4,IT
+db-71.nicholson-phillips.com,179.101.98.37,Ubuntu,16,HR
+web-36.lynch.info,51.157.75.52,Debian,32,Finance
+srv-21.clark.com,85.224.166.49,Ubuntu,4,Finance
+lt-86.swanson.net,194.19.180.236,CentOS,32,Sales
+srv-48.edwards.org,16.90.86.243,CentOS,4,Sales
+lt-27.gibson.com,67.209.196.92,Windows Server,8,HR
+desktop-27.johnson-smith.biz,115.134.7.244,Windows Server,8,Finance
+laptop-61.james-bailey.org,185.233.92.183,CentOS,4,HR
+lt-19.lowery.com,200.157.161.246,Windows Server,8,IT
+web-29.beard.net,154.142.207.30,Debian,8,Finance
+email-90.valdez.org,191.145.146.178,CentOS,4,Finance
+email-59.holland.com,160.143.164.25,Debian,4,Sales
+laptop-02.farrell-thompson.com,207.57.194.143,Ubuntu,16,Sales
+desktop-94.alvarez.org,151.89.219.47,Ubuntu,32,HR
+web-02.roth-martin.com,1.165.244.83,CentOS,32,Finance
+lt-70.lane.com,143.170.238.112,CentOS,32,HR
+lt-93.wheeler.com,189.108.225.15,Windows Server,4,HR
+db-80.shaffer.com,182.215.226.244,CentOS,8,Finance
+laptop-17.martin.biz,25.112.239.200,Debian,16,Finance
+laptop-82.harrison-jones.org,101.86.170.144,Windows Server,8,Finance
+desktop-93.farmer.com,9.115.24.157,Ubuntu,16,IT
+laptop-86.miller.com,13.132.177.63,Ubuntu,8,Finance
+web-50.snyder-ross.org,200.221.96.21,Ubuntu,2,IT
+email-48.vargas.com,134.184.242.126,Debian,32,Finance
+desktop-69.rocha.com,213.36.147.91,CentOS,4,Finance
+lt-79.kane.com,165.149.71.66,Debian,32,IT
+web-42.garcia.info,24.38.81.1,Windows Server,32,IT
+srv-00.berry.com,95.213.50.46,Debian,16,Sales
+lt-19.wright.com,25.121.150.53,Ubuntu,16,Finance
+db-84.walters-guerrero.com,43.71.54.135,Ubuntu,32,Finance
+srv-00.rivera-williams.com,180.167.24.193,Windows Server,16,Sales
+lt-15.lewis-ryan.info,119.179.47.234,Debian,2,Sales
+desktop-65.hicks-fox.com,102.204.133.214,Debian,4,HR
+email-88.sanchez-grant.info,98.152.173.238,Ubuntu,4,IT
+web-11.johnson.com,54.128.87.128,Windows Server,2,Finance
+web-57.moore-park.org,209.222.96.253,Ubuntu,2,HR
+web-22.bishop.com,128.158.3.192,Windows Server,32,Sales
+email-37.klein-williams.com,49.107.20.62,Ubuntu,4,Finance
+email-74.mueller-khan.com,37.142.224.100,Ubuntu,4,Finance
+web-48.brown.biz,30.62.253.75,Ubuntu,2,IT
+email-73.walters.com,178.67.232.195,Debian,32,Finance
+desktop-13.mccarty.com,104.137.1.132,Debian,16,HR
+lt-30.martinez.com,190.245.202.146,Ubuntu,4,IT
+srv-79.ray.org,171.80.161.63,Debian,4,IT
+desktop-09.jones.net,87.206.74.16,Windows Server,16,HR
+web-50.hensley-eaton.com,116.145.225.156,Debian,2,IT
+desktop-97.rios-alexander.com,3.226.103.177,Windows Server,16,IT
+lt-69.alexander.com,10.165.145.122,Debian,8,HR
+db-86.cummings.org,121.111.94.240,Windows Server,8,HR
+laptop-25.miller-smith.com,37.100.113.0,CentOS,8,Sales
+lt-00.walton.com,2.48.65.182,Debian,8,Finance
+desktop-71.underwood-melton.com,112.29.246.182,Debian,32,IT
+laptop-20.robinson.com,93.206.134.197,CentOS,4,Sales
+lt-71.wallace.com,17.250.43.10,Ubuntu,4,Finance
+desktop-98.taylor.net,108.115.248.90,CentOS,2,Sales
+db-33.davila.com,49.186.204.123,Ubuntu,2,HR
+desktop-69.trujillo.com,223.44.74.46,Debian,4,IT
+lt-87.gonzales-bates.com,83.205.47.208,Ubuntu,32,HR
+db-87.perez-robinson.com,221.187.22.43,CentOS,8,Finance
+laptop-57.yang.com,113.87.130.194,CentOS,2,Sales
+email-28.rhodes-bender.biz,57.65.193.62,CentOS,2,Sales
+web-17.hall.info,35.24.249.184,Ubuntu,2,Finance
+srv-13.mccormick.com,159.178.208.103,CentOS,16,HR
+desktop-60.le.com,160.179.155.65,Ubuntu,16,HR
+srv-33.ellis.com,120.28.206.203,Ubuntu,16,Finance
+lt-16.hart.com,129.101.162.46,CentOS,16,Finance
+laptop-46.jimenez-harris.info,216.142.103.39,Debian,2,IT
+email-04.powell-james.com,90.37.118.107,CentOS,2,HR
+lt-23.jensen.org,80.33.65.123,Debian,8,Sales
+email-96.roy-oliver.com,134.104.247.76,Windows Server,32,HR
+laptop-47.rogers.info,203.1.97.19,CentOS,4,Finance
+srv-57.lee.info,181.69.43.129,CentOS,2,HR
+desktop-68.jones-schroeder.info,186.148.77.68,Ubuntu,32,Finance
+db-88.moore.info,101.38.232.46,Debian,4,IT
+srv-61.carroll.net,69.198.164.35,Windows Server,2,Sales
+laptop-19.garza-ewing.net,178.16.92.107,Debian,16,IT
+email-85.thompson-burns.com,93.116.252.140,Debian,4,IT
+email-73.johnson.com,144.228.16.115,Windows Server,4,Finance
+laptop-69.burgess-turner.com,32.89.94.86,Ubuntu,8,Finance
+lt-98.porter.com,156.239.58.87,CentOS,32,IT
+srv-53.campbell.com,178.79.228.239,Ubuntu,8,Finance
+lt-93.barrett.com,213.112.141.200,Debian,4,Finance
+laptop-16.stevens.com,133.174.46.176,Debian,32,Sales
+laptop-36.padilla-rose.com,3.157.223.161,Ubuntu,32,IT
+desktop-87.hill-norton.com,138.174.3.210,Debian,2,Finance
+laptop-22.choi.com,138.135.16.37,Windows Server,2,IT
+laptop-79.morrison.com,140.0.34.44,Windows Server,8,Sales
+db-56.mcdaniel-price.com,20.231.204.73,CentOS,8,IT
+web-56.diaz-todd.com,20.120.3.114,Ubuntu,32,HR
+web-71.williams.info,161.47.124.232,Debian,4,Sales
+srv-74.kennedy-brown.com,81.5.182.132,Debian,8,Finance
+laptop-98.nelson-morgan.net,107.228.5.169,CentOS,16,Finance
+lt-57.downs.com,53.101.169.1,Windows Server,8,HR
+desktop-14.williams.com,116.74.197.140,Debian,16,Sales
+srv-97.young-mathis.com,20.142.62.107,Windows Server,4,Finance
+laptop-21.gonzales.org,182.219.249.14,CentOS,16,Sales
+laptop-38.fritz.com,62.79.200.153,CentOS,8,Sales
+web-44.hansen.com,53.191.16.78,Ubuntu,16,Sales
+srv-91.kidd-hodges.com,10.79.140.228,CentOS,2,IT
+desktop-80.brown.biz,73.19.25.47,Debian,16,Finance
+email-26.myers.com,179.239.204.62,Debian,32,IT
+db-29.williams.biz,110.95.27.96,CentOS,32,Finance
+laptop-00.cooper.com,178.223.140.150,Ubuntu,16,HR
+srv-32.hanson-dougherty.biz,183.246.232.168,CentOS,8,IT
+laptop-13.taylor.com,125.211.97.11,CentOS,16,IT
+srv-90.turner.com,22.29.254.107,Ubuntu,16,HR
+web-75.smith-thomas.net,194.216.219.249,Ubuntu,32,Sales
+web-84.sanford.com,10.232.219.104,Debian,32,Sales
+srv-42.rodriguez-powell.biz,135.213.248.100,Ubuntu,8,HR
+srv-28.hill-lee.com,73.152.231.53,Debian,32,HR
+lt-48.harris.com,169.219.243.214,CentOS,32,HR
+laptop-48.rice.com,162.4.187.96,CentOS,2,HR
+email-20.byrd-williams.info,141.103.122.0,Debian,2,Finance
+db-73.harrison.com,166.71.28.220,Windows Server,8,IT
+srv-44.long-carpenter.com,210.43.237.16,Ubuntu,2,HR
+desktop-28.williams-hendrix.info,89.255.131.195,Windows Server,32,Sales
+web-25.montgomery.com,68.35.251.102,Windows Server,2,HR
+srv-36.lopez.net,147.105.206.24,CentOS,16,IT
+web-57.fitzpatrick.com,75.244.54.52,Debian,8,HR
+db-05.acevedo.com,38.165.144.122,CentOS,2,Finance
+db-53.moss.biz,201.243.99.238,CentOS,32,Sales
+lt-99.wilson.org,145.60.110.112,CentOS,4,IT
+lt-03.clements.net,209.27.94.133,Debian,4,Sales
+web-40.martinez.org,92.172.117.126,Debian,8,IT
+web-18.ballard.com,38.239.119.15,Ubuntu,4,IT
+laptop-59.howard.com,4.99.77.172,CentOS,4,HR
+email-67.mckinney.com,138.46.196.28,Debian,2,Finance
+email-23.jones.info,75.221.93.165,Debian,32,IT
+lt-33.hester.com,188.93.249.24,Ubuntu,2,IT
+lt-47.webb.com,40.23.205.230,CentOS,4,HR
+lt-09.brewer.info,26.73.53.165,CentOS,4,HR
+email-19.nolan.com,37.104.26.188,Windows Server,4,Sales
+db-66.griffith.com,170.43.50.138,Ubuntu,32,HR
+web-79.harding.com,179.122.137.213,Ubuntu,16,IT
+srv-98.jones.net,142.14.59.198,Ubuntu,16,HR
+desktop-75.valdez.org,84.42.164.62,Windows Server,16,Finance
+srv-10.mitchell-miller.com,167.78.216.33,CentOS,8,Sales
+lt-60.hernandez.com,28.87.93.138,Debian,2,Finance
+desktop-28.gallagher.org,3.184.170.65,Ubuntu,32,Finance
+db-04.banks.biz,46.226.62.128,Debian,2,HR
+db-52.wallace-lin.com,51.213.1.62,CentOS,32,IT
+lt-76.jackson-curtis.com,31.67.174.173,Ubuntu,8,IT
+desktop-57.stone.net,129.233.193.186,CentOS,4,IT
+db-41.williams.com,218.85.86.184,Windows Server,4,IT
+db-83.farrell.org,140.175.50.76,Ubuntu,2,HR
+laptop-88.luna-murphy.org,51.30.209.153,Ubuntu,2,Sales
+lt-13.jackson-thomas.com,214.87.232.94,Debian,16,IT
+db-93.bennett-ortiz.net,38.251.121.96,Ubuntu,2,Finance
+laptop-87.mitchell-thompson.com,145.116.135.129,Windows Server,2,Finance
+email-31.white.com,56.223.130.143,Debian,2,HR
+web-92.david-taylor.com,202.97.42.26,Ubuntu,8,Sales
+srv-49.byrd-thomas.com,132.252.101.1,CentOS,4,Sales
+lt-77.anderson.biz,192.117.117.222,Windows Server,4,IT
+db-39.morgan.com,150.152.132.102,Debian,16,HR
+laptop-06.roberts.net,147.252.235.217,Ubuntu,32,HR
+lt-06.miller.com,90.153.112.73,Debian,8,Finance
+srv-90.yoder.biz,209.9.251.18,CentOS,4,IT
+web-15.torres-holden.com,76.238.69.162,Debian,8,Sales
+laptop-27.banks.com,211.163.26.246,Ubuntu,32,Sales
+db-98.newman-larson.org,206.121.84.35,Windows Server,2,Sales
+desktop-61.cole.com,199.172.24.164,Windows Server,4,HR
+laptop-83.castillo.com,57.5.254.77,Ubuntu,4,Sales
+desktop-76.harrison.net,102.193.2.158,Windows Server,16,IT
+srv-34.brown.com,86.234.18.122,CentOS,32,IT
+desktop-30.smith-west.com,82.229.215.238,Windows Server,4,Finance
+db-55.harvey.info,118.28.124.116,CentOS,16,HR
+laptop-16.black-johnson.org,218.119.75.199,Debian,4,Sales
+laptop-36.harrison.com,128.203.9.170,CentOS,8,Finance
+web-62.wang.com,43.125.249.211,Windows Server,16,Sales
+db-70.bryant-garcia.com,172.99.61.113,Ubuntu,2,Sales
+desktop-98.nunez.com,23.137.142.123,Windows Server,16,HR
+laptop-32.schultz-romero.net,61.135.116.253,Ubuntu,32,Sales
+web-77.burton-nguyen.com,65.163.221.6,Windows Server,4,Sales
+srv-21.espinoza-flores.biz,209.116.251.232,CentOS,2,HR
+lt-02.stone.com,145.24.41.11,CentOS,16,Finance
+db-72.garcia.net,4.117.171.134,Ubuntu,32,Finance
+laptop-21.snyder.com,86.248.203.47,Ubuntu,32,Finance
+desktop-58.garcia-skinner.net,75.30.65.202,Debian,4,Sales
+srv-84.frost.net,104.177.88.21,Windows Server,4,IT
+web-00.black.org,95.162.234.5,Windows Server,16,HR
+web-51.kane.com,27.60.253.167,Debian,4,Finance
+web-17.franklin-wallace.com,162.52.82.196,CentOS,32,HR
+web-35.wilson.net,128.70.28.29,Windows Server,2,HR
+db-85.perez.biz,67.82.162.217,CentOS,8,IT
+db-49.rosario-rodriguez.info,164.27.114.214,CentOS,16,Sales
+laptop-95.leonard.com,109.48.96.64,Ubuntu,16,Finance
+email-85.graham.com,152.217.140.122,CentOS,32,HR
+web-26.collins.com,55.107.153.252,Windows Server,8,Sales
+email-40.johnson-rios.net,29.148.45.131,CentOS,4,HR
+laptop-43.allen.biz,212.40.185.40,Debian,32,Finance
+lt-93.nelson-hill.com,206.64.243.122,Ubuntu,4,HR
+web-71.spencer.org,167.72.251.30,Debian,2,Finance
+desktop-20.hoffman-hinton.com,13.23.150.116,Windows Server,16,HR
+srv-23.olson-may.net,104.85.95.112,CentOS,8,Sales
+db-69.williams-mccarthy.com,82.241.59.37,Ubuntu,16,Sales
+lt-34.bentley.com,70.64.245.19,Debian,4,HR
+laptop-31.brown.info,118.92.107.129,CentOS,4,HR
+desktop-52.ross.org,171.238.23.10,Ubuntu,32,Sales
+laptop-79.lynch-heath.biz,2.114.127.246,CentOS,16,IT
+lt-21.kaufman.com,94.159.231.161,Debian,8,Sales
+laptop-80.patrick.com,13.31.157.107,CentOS,8,Finance
+srv-55.ramirez.com,160.86.14.3,Windows Server,2,Finance
+email-84.franklin-harrison.com,43.203.33.240,Debian,16,HR
+lt-51.lawson.net,140.137.68.134,CentOS,16,Sales
+laptop-50.hall-lloyd.com,88.107.152.237,Debian,2,Finance
+laptop-08.lawson.com,174.35.76.100,Debian,8,Sales
+srv-63.velez-nixon.com,114.213.68.130,Windows Server,16,HR
+srv-11.cisneros.biz,164.31.192.101,Windows Server,16,HR
+web-86.ray-beard.info,170.131.144.229,CentOS,32,IT
+desktop-13.clark.com,120.146.90.254,Windows Server,32,Finance
+web-23.lewis.net,74.242.184.55,Ubuntu,8,Finance
+web-02.lopez.com,150.245.200.137,CentOS,8,HR
+db-35.rhodes-kidd.org,180.10.77.138,Windows Server,8,IT
+srv-00.thomas.com,7.14.13.225,Ubuntu,32,IT
+lt-96.mason.org,155.95.75.17,Windows Server,16,Sales
+db-62.vasquez.info,82.46.103.120,Windows Server,4,Sales
+db-09.wang.com,1.36.162.73,Ubuntu,4,Sales
+desktop-18.ross.com,203.25.191.88,Ubuntu,32,IT
+laptop-89.prince.com,89.236.156.201,Ubuntu,16,IT
+desktop-76.warren.biz,58.46.96.217,CentOS,16,IT
+db-39.campbell.com,165.24.0.97,Ubuntu,4,Sales
+db-15.richardson.com,209.148.126.209,CentOS,16,Finance
+srv-56.jones.com,64.103.112.177,Debian,2,IT
+srv-68.wright-walter.com,106.87.68.190,Ubuntu,32,Finance
+lt-51.rodgers-olson.com,117.26.128.45,Windows Server,16,HR
+email-59.rogers.com,197.188.107.235,Windows Server,16,IT
+web-80.banks-williams.com,171.60.60.202,Debian,8,IT
+desktop-58.meyers-martin.com,133.68.227.28,Debian,2,HR
+web-43.jones-martinez.com,4.8.135.66,CentOS,2,HR
+web-79.davis.com,18.246.23.93,CentOS,8,Finance
+db-95.garcia.com,25.37.33.203,Ubuntu,2,HR
+laptop-78.young-jones.com,21.233.96.42,Debian,2,IT
+db-54.williams.com,154.7.100.162,Ubuntu,16,HR
+lt-39.anderson-johnson.com,59.48.22.51,Windows Server,8,Sales
+web-10.johnson-smith.com,54.159.247.202,Ubuntu,8,HR
+laptop-61.collins.biz,130.213.79.82,Windows Server,16,Finance
+srv-43.haynes.com,46.74.216.181,Windows Server,16,Sales
+laptop-89.lawson-jacobs.com,31.229.153.72,Debian,32,Finance
+laptop-02.allison.com,96.124.232.131,Windows Server,4,Sales
+lt-17.williams.org,60.124.215.240,CentOS,16,IT
+srv-26.roberts.biz,137.182.141.242,CentOS,4,Finance
+db-71.taylor-rocha.com,160.52.110.121,Debian,8,IT
+email-91.miller.com,177.224.51.228,CentOS,2,IT
+laptop-04.boyer.biz,191.48.107.151,Windows Server,16,HR
+desktop-72.carey.com,63.117.131.191,Ubuntu,32,IT
+desktop-58.holloway-tyler.com,26.220.185.148,Windows Server,2,Sales
+email-32.evans.com,14.172.51.204,CentOS,4,Finance
+db-61.davis-moore.com,120.113.111.207,CentOS,4,Finance
+email-17.kelly-taylor.net,214.157.110.239,Debian,16,Finance
+lt-55.castillo-davis.com,49.163.8.224,CentOS,2,HR
+desktop-51.whitehead.com,9.101.239.155,Debian,32,IT
+desktop-54.lopez.com,146.160.182.119,Ubuntu,8,HR
+db-06.velasquez.info,57.136.203.74,Windows Server,2,Sales
+web-38.werner-frye.com,131.211.51.113,Windows Server,16,Finance
+laptop-92.miller-walter.com,193.96.254.245,CentOS,16,Finance
+lt-78.rodriguez.com,97.196.30.228,CentOS,32,Finance
+web-43.price.info,156.58.73.80,Windows Server,8,Sales
+email-52.kim.org,187.187.250.249,CentOS,2,HR
+email-19.allen.org,53.191.254.69,CentOS,2,Finance
+web-54.ray-smith.com,91.194.229.223,Debian,8,Finance
+laptop-78.nguyen.com,146.33.17.144,Windows Server,2,Sales
+web-17.mcguire.com,16.174.233.156,Windows Server,16,IT
+srv-04.shields.com,21.149.151.126,Debian,4,IT
+lt-34.murphy.org,204.194.124.203,Windows Server,16,IT
+email-62.luna-brown.com,67.84.49.63,CentOS,8,Finance
+email-92.bishop.net,28.162.141.253,Debian,8,IT
+db-85.anderson.com,163.111.39.10,Windows Server,4,HR
+desktop-12.johnson.com,16.234.232.183,Debian,8,IT
+email-01.lee-henderson.net,139.172.230.148,Windows Server,2,HR
+lt-48.shepard.org,149.66.16.33,CentOS,16,Finance
+web-90.smith.org,213.24.85.252,Debian,16,Sales
+db-88.leon.com,211.109.92.35,Ubuntu,4,IT
+laptop-01.hamilton-martinez.com,223.26.191.117,CentOS,32,Sales
+laptop-46.snyder.net,82.60.95.145,Windows Server,32,HR
+desktop-52.fitzgerald.biz,197.145.182.33,CentOS,4,HR
+lt-09.smith-chaney.info,35.40.39.132,Windows Server,32,IT
+email-43.middleton-terry.net,95.196.13.81,CentOS,32,Finance
+srv-35.ferguson.net,4.131.229.150,Windows Server,16,IT
+db-74.thompson.biz,9.167.102.72,CentOS,8,HR
+lt-89.wallace.com,4.59.5.182,Ubuntu,8,HR
+web-32.thornton.org,110.229.213.74,CentOS,16,Finance
+email-15.olson.com,142.218.95.40,CentOS,16,Sales
+desktop-68.sullivan-davidson.biz,122.41.1.95,Ubuntu,2,Finance
+db-78.alvarado.net,48.134.119.232,Debian,2,Sales
+email-57.rowe.org,205.130.73.145,CentOS,2,Finance
+laptop-99.beck.com,164.78.38.52,Windows Server,8,IT
+web-73.reyes.com,168.48.76.46,CentOS,8,Finance
+laptop-35.reyes.net,131.231.161.238,Ubuntu,2,IT
+db-22.bentley.com,166.172.219.225,CentOS,4,Finance
+email-27.turner-wagner.com,45.185.3.212,Debian,2,Sales
+desktop-99.pham-wright.com,84.140.214.76,Windows Server,8,Finance
+db-07.keller.com,182.170.114.251,CentOS,4,HR
+db-21.wilson-snow.com,17.50.230.206,Windows Server,2,HR
+srv-14.brennan.info,180.153.210.134,Windows Server,32,HR
+srv-41.nguyen.com,152.157.130.219,Windows Server,16,Finance
+web-77.snow.com,88.166.10.203,Debian,4,Finance
+laptop-49.underwood.com,190.241.163.32,Debian,16,IT
+laptop-70.jacobs.com,13.195.42.247,CentOS,32,Sales
+lt-20.dalton.org,2.100.124.253,Windows Server,4,IT
+srv-85.cook.com,136.253.186.158,CentOS,2,HR
+lt-56.black.com,20.199.239.196,Debian,4,HR
+email-56.flores.com,209.204.15.217,Ubuntu,4,IT
+desktop-75.davidson.com,107.10.191.80,Windows Server,8,Sales
+lt-20.ellis.com,182.186.176.164,Debian,32,HR
+srv-67.reyes.com,203.188.105.41,CentOS,4,Sales
+db-93.adams-swanson.com,173.140.176.174,Windows Server,8,HR
+db-59.evans-larsen.com,109.1.123.127,Windows Server,16,IT
+db-07.wilson.biz,71.236.97.235,Windows Server,2,IT
+srv-69.simpson.net,209.102.153.74,Debian,2,HR
+db-76.marshall.com,58.190.151.6,Windows Server,16,Finance
+email-87.miller.com,74.26.238.229,Ubuntu,16,Sales
+web-70.ellison.org,101.124.57.15,Ubuntu,4,HR
+web-16.jackson-brown.com,141.40.79.67,Ubuntu,2,HR
+srv-00.henry.com,121.244.233.226,Debian,4,IT
+srv-37.hernandez.biz,99.1.59.12,CentOS,16,Sales
+desktop-98.warner.com,176.165.139.94,Windows Server,32,Finance
+lt-00.morales-aguilar.com,41.131.203.163,Ubuntu,32,Finance
+srv-32.castillo.com,158.47.233.87,CentOS,2,IT
+desktop-11.sandoval.com,210.89.110.152,Debian,8,IT
+laptop-99.pineda.info,69.115.148.173,Ubuntu,8,HR
+desktop-62.petersen-smith.biz,167.1.141.39,Ubuntu,32,Finance
+desktop-30.proctor-taylor.com,34.176.63.202,Debian,32,Sales
+web-00.jarvis.com,167.220.22.250,Debian,8,IT
+db-88.garcia-miller.com,223.216.252.239,Debian,16,HR
+srv-44.simpson-flores.com,163.196.205.154,Debian,16,Sales
+db-08.barker.com,184.45.166.105,CentOS,4,Finance
+srv-73.perry.info,208.80.219.51,Windows Server,16,HR
+desktop-04.li.net,34.42.155.178,Ubuntu,16,Sales
+laptop-65.davis.info,52.249.166.194,Debian,32,IT
+email-54.lopez.net,162.54.113.128,CentOS,32,Finance
+desktop-69.vaughn-olsen.com,156.242.206.42,Windows Server,32,Sales
+lt-57.williams.com,160.221.199.176,CentOS,16,IT
+desktop-24.wilkerson-nunez.com,67.208.220.154,CentOS,16,Sales
+email-81.smith.com,7.225.6.184,CentOS,2,HR
+laptop-61.bennett-hamilton.com,56.5.104.137,Debian,32,HR
+desktop-68.davis.biz,223.175.5.44,Windows Server,16,Sales
+email-45.barnes.net,120.45.38.109,Debian,8,HR
+db-06.holmes-berger.com,16.225.122.216,Debian,32,HR
+email-28.williams.info,111.12.167.30,Windows Server,4,Finance
+lt-78.johnson.com,31.155.39.74,Windows Server,2,Finance
+db-86.smith.org,100.42.126.243,Debian,16,IT
+web-70.jones.com,209.50.251.230,Ubuntu,16,HR
+lt-63.clark.biz,39.12.26.116,Windows Server,4,Finance
+desktop-55.nguyen-young.com,20.66.159.211,Windows Server,8,HR
+db-64.brown-fuller.info,213.169.108.78,Windows Server,32,Finance
+srv-27.green-gregory.com,136.14.223.116,CentOS,8,IT
+desktop-10.martin-andrews.com,109.131.27.182,Windows Server,4,IT
+web-48.reed.biz,141.50.136.62,Windows Server,4,Sales
+srv-76.reed.com,26.111.28.149,Windows Server,16,Finance
+laptop-11.price.org,223.13.176.17,Debian,8,Sales
+desktop-31.newman.com,124.130.132.99,Ubuntu,8,IT
+laptop-14.harmon.com,21.159.13.124,CentOS,8,IT
+srv-45.carrillo-armstrong.com,101.94.89.207,Ubuntu,8,IT
+lt-97.carroll-joyce.net,82.195.191.70,Debian,2,Finance
+srv-63.evans.com,97.145.183.86,CentOS,2,HR
+srv-97.mcmahon.com,196.65.137.72,Ubuntu,16,Sales
+web-43.mcguire.com,83.174.31.63,Ubuntu,16,Sales
+email-15.strong.com,19.80.132.119,Debian,16,Sales
+db-61.morales-gonzalez.com,151.126.130.147,Ubuntu,16,Sales
+web-74.buck-vaughan.com,40.248.148.230,Debian,16,HR
+desktop-24.reynolds.com,123.54.187.77,Ubuntu,32,IT
+web-46.murray.com,63.51.19.118,Windows Server,8,IT
+laptop-62.bautista.com,5.197.213.131,Windows Server,4,IT
+lt-08.robinson-woodward.info,76.236.76.73,Windows Server,2,Sales
+laptop-77.melton.com,137.251.29.243,Windows Server,32,HR
+lt-91.harris-davis.com,2.239.208.238,Ubuntu,8,IT
+db-03.alexander.org,11.73.195.131,CentOS,4,Sales
+lt-74.love.com,170.180.134.214,Debian,16,IT
+lt-41.richardson.info,156.248.45.106,Ubuntu,16,HR
+web-84.west-miller.com,200.81.34.1,Ubuntu,2,Finance
+email-86.young.org,138.42.229.47,Ubuntu,2,IT
+lt-79.perry.com,108.181.175.163,Debian,16,HR
+web-33.cox.com,220.71.169.91,Windows Server,32,Finance
+web-20.harris-harris.info,133.117.0.20,Debian,8,Finance
+desktop-85.howell-rollins.com,21.204.247.5,Windows Server,4,Finance
+db-97.munoz-johnson.info,117.20.98.188,CentOS,4,HR
+email-50.richardson-thompson.com,124.242.180.196,CentOS,32,IT
+srv-54.harmon.com,200.133.119.24,Ubuntu,4,Finance
+laptop-98.mitchell.com,179.114.231.191,Windows Server,4,Sales
+email-12.matthews.com,198.20.104.186,Windows Server,4,HR
+lt-67.garcia.com,49.244.183.217,Windows Server,8,Finance
+email-51.byrd.com,83.82.153.147,Debian,32,Finance
+laptop-27.russo.com,93.155.162.99,Ubuntu,32,Sales
+desktop-84.wheeler-mack.info,118.89.218.107,CentOS,2,IT
+laptop-64.morrison-kelly.com,64.50.238.70,Windows Server,4,Finance
+srv-01.davis.biz,205.78.99.143,Ubuntu,32,HR
+lt-85.gray.net,6.237.159.52,Windows Server,32,IT
+email-55.mendoza.org,136.145.132.189,Ubuntu,2,Sales
+laptop-96.horne.org,141.15.7.161,CentOS,32,IT
+email-52.stewart.com,146.164.169.103,Ubuntu,4,Finance
+db-83.woodard.com,140.1.131.176,CentOS,32,HR
+lt-16.thomas.com,55.141.222.77,Windows Server,2,Sales
+web-46.campbell.biz,95.114.106.85,Windows Server,32,Finance
+laptop-51.sanders.com,123.217.240.115,Windows Server,2,HR
+srv-53.ortiz-ellison.com,200.162.60.138,Windows Server,16,HR
+lt-50.fields.com,60.65.82.198,Debian,16,IT
+srv-81.solis-rojas.com,121.151.35.219,Windows Server,2,Sales
+desktop-18.smith-hernandez.com,16.196.126.243,CentOS,8,IT
+srv-45.hall.com,168.97.248.191,Debian,2,HR
+lt-58.mendoza.com,11.91.238.247,Ubuntu,4,Sales
+desktop-17.lewis.net,187.175.143.190,CentOS,32,Finance
+desktop-35.miller-lawson.org,70.181.84.44,Debian,4,IT
+email-67.wiley.com,162.102.215.10,Debian,32,IT
+laptop-27.cross-hart.info,175.161.198.195,Windows Server,2,Finance
+desktop-26.nelson.biz,200.210.195.67,Windows Server,16,IT
+lt-47.ramirez-velazquez.com,71.194.137.0,Debian,8,IT
+lt-71.campbell.biz,116.202.224.210,CentOS,2,IT
+db-14.tate-cruz.com,42.159.145.29,Ubuntu,2,Sales
+db-61.allen.com,14.58.66.251,CentOS,16,Sales
+web-85.kennedy-moreno.net,156.165.136.91,Windows Server,8,Sales
+web-02.jennings.com,76.201.109.151,Windows Server,8,Sales
+lt-91.moss.com,6.116.152.132,CentOS,4,Sales
+web-74.cooper-watson.biz,107.230.182.87,CentOS,4,HR
+srv-42.gonzalez-valdez.com,104.208.115.177,Windows Server,2,Finance
+db-23.boyle.com,62.188.43.212,Windows Server,16,Finance
+srv-49.flores.com,123.89.244.182,Debian,8,IT
+web-45.shelton-arnold.com,221.52.103.130,Ubuntu,16,IT
+db-87.duarte.net,53.161.217.131,CentOS,4,Finance
+laptop-12.jones-foley.com,42.237.90.191,CentOS,8,Finance
+srv-80.matthews.com,60.7.71.199,Debian,8,HR
+srv-89.porter.net,129.101.42.217,CentOS,8,HR
+desktop-95.walker.org,203.74.36.152,Ubuntu,2,Finance
+srv-14.hall.com,134.47.39.35,CentOS,32,Sales
+laptop-18.wright.org,102.245.216.146,Debian,4,Finance
+laptop-10.wood.com,61.14.238.64,CentOS,16,IT
+laptop-01.garcia.com,90.115.79.20,Windows Server,32,Finance
+lt-43.carter.com,222.109.66.19,CentOS,4,Finance
+web-03.robles.biz,67.32.77.226,Debian,16,IT
+lt-43.young-mcfarland.net,71.190.106.220,Windows Server,16,HR
+db-11.mckenzie-love.net,193.12.199.182,Windows Server,16,Finance
+desktop-77.singleton.com,86.116.247.42,Windows Server,16,IT
+desktop-76.miller.com,188.24.240.136,Ubuntu,32,Sales
+srv-98.harris.com,207.55.106.78,Debian,4,HR
+db-57.vargas.info,185.34.115.17,Debian,4,Finance
+desktop-08.snyder-douglas.com,192.232.230.154,CentOS,16,Finance
+db-06.moreno.net,192.9.243.138,CentOS,16,IT
+desktop-64.trevino.org,206.0.182.198,Windows Server,16,HR
+web-23.torres-lamb.com,66.113.168.192,Windows Server,4,HR
+lt-06.mosley.org,79.224.129.53,Windows Server,4,IT
+db-42.morris-smith.info,125.191.104.143,CentOS,16,HR
+desktop-38.sweeney-ortega.org,101.140.192.44,CentOS,8,IT
+lt-83.ferguson.com,17.9.19.91,Debian,32,HR
+web-06.odonnell.com,69.89.196.245,CentOS,2,Finance
+web-85.bennett-pruitt.info,202.45.109.106,Ubuntu,32,Sales
+email-61.leonard.com,146.82.20.53,Ubuntu,4,IT
+desktop-75.pierce-mora.com,150.184.183.86,Windows Server,8,HR
+desktop-73.branch.org,112.135.96.233,Windows Server,8,HR
+db-28.mcbride.com,18.111.147.67,CentOS,4,Sales
+email-19.moss.info,121.0.212.120,Debian,32,Finance
+srv-39.levine.com,95.29.75.26,Windows Server,8,Sales
+lt-68.jones.net,150.136.237.41,Ubuntu,2,Finance
+lt-82.lindsey.com,81.247.232.96,Windows Server,8,IT
+desktop-50.hunter-miller.com,119.83.117.139,Debian,8,Sales
+srv-47.murray.net,212.145.208.9,Debian,8,IT
+lt-27.duncan-olson.com,30.36.93.191,CentOS,2,IT
+web-11.gonzales.com,103.194.41.135,CentOS,8,IT
+email-12.hernandez-thomas.com,56.25.206.234,Debian,4,IT
+email-63.franklin-scott.com,189.80.135.17,Ubuntu,2,Finance
+srv-66.cruz.biz,62.223.20.224,Windows Server,32,IT
+srv-97.price.biz,179.139.34.180,Ubuntu,32,HR
+srv-38.lee-mack.org,165.144.248.184,Windows Server,16,IT
+srv-06.mcguire.com,191.106.42.172,Windows Server,4,Finance
+laptop-75.barr.com,112.175.193.82,Debian,8,HR
+laptop-35.rodriguez.com,180.189.131.233,Debian,32,Sales
+laptop-25.lopez.org,170.173.141.210,CentOS,2,IT
+web-54.evans.net,185.175.176.191,Debian,32,Finance
+db-40.lane-hartman.com,61.0.160.74,Debian,16,Finance
+desktop-93.torres-santos.info,120.73.27.222,CentOS,16,Sales
+desktop-21.dudley-kirk.info,184.142.121.101,CentOS,32,Finance
+srv-60.espinoza-carter.biz,121.115.169.236,Debian,2,Finance
+laptop-26.foster-miller.com,121.156.200.211,Windows Server,4,IT
+db-81.casey.org,117.191.116.166,Ubuntu,8,HR
+srv-53.gutierrez.com,29.166.201.119,CentOS,2,HR
+lt-69.proctor-webster.com,74.185.42.103,Debian,4,HR
+lt-36.stokes.biz,161.209.164.253,Ubuntu,2,IT
+lt-95.patterson.com,102.79.206.86,Windows Server,8,Finance
+web-00.moss.com,140.113.246.41,Ubuntu,4,IT
+lt-26.wright.com,72.123.106.110,CentOS,2,Sales
+laptop-72.wilson.com,12.15.235.238,Debian,4,Finance
+web-91.erickson.info,195.235.246.137,CentOS,4,HR
+desktop-31.rodriguez.info,88.40.190.88,Debian,4,Sales
+lt-28.anderson.com,17.242.145.153,Debian,4,Sales
+laptop-15.fischer.com,118.36.193.206,Ubuntu,4,IT
+desktop-33.salazar-perez.com,89.219.217.16,Debian,4,IT
+db-92.morris.com,219.199.229.90,Ubuntu,4,Finance
+srv-16.ramos-johnson.com,143.135.21.239,Ubuntu,16,Sales
+email-69.wolf-scott.com,174.169.86.89,Ubuntu,16,IT
+desktop-10.williams.com,160.241.202.192,CentOS,2,Finance
+lt-59.gibson.com,160.136.230.208,Windows Server,2,Sales
+db-66.weaver.com,211.206.45.218,Ubuntu,4,HR
+desktop-87.reed.org,82.14.246.108,Windows Server,2,Finance
+lt-00.patel.com,67.101.110.186,Windows Server,8,Sales
+laptop-25.mckinney.biz,32.20.199.227,Ubuntu,32,IT
+desktop-37.smith.com,120.58.241.139,Windows Server,32,HR
+srv-62.short.net,178.211.251.58,Windows Server,2,HR
+lt-77.diaz-sutton.com,186.134.190.252,Ubuntu,4,IT
+desktop-90.hill-garrett.info,102.197.33.96,Debian,2,Finance
+laptop-21.powers.com,110.46.3.34,CentOS,8,Sales
+desktop-36.wagner.info,78.151.191.129,Ubuntu,32,IT
+desktop-33.brown-anderson.com,135.247.141.231,CentOS,8,HR
+email-08.parker.com,196.47.164.11,Windows Server,2,Sales
+web-28.lee.com,77.90.214.91,Debian,4,IT
+web-62.rogers-thomas.com,4.11.254.70,Windows Server,16,Sales
+desktop-94.fritz-martin.info,119.51.11.255,Debian,32,Sales
+web-87.medina.com,135.82.109.220,Windows Server,4,Finance
+srv-49.beck-pierce.com,63.22.230.184,Windows Server,32,HR
+email-21.gonzalez-martin.com,101.151.53.98,Ubuntu,16,Finance
+web-43.garcia.info,16.4.134.6,Windows Server,16,Sales
+lt-39.peterson-moyer.com,44.132.111.222,Windows Server,2,Finance
+db-94.knapp.info,187.163.223.127,Ubuntu,4,Sales
+srv-58.roberts.org,121.134.107.195,Ubuntu,16,HR
+db-47.best.org,29.21.70.160,CentOS,8,Sales
+lt-57.singh.com,159.52.45.197,CentOS,8,HR
+db-67.deleon.com,153.248.145.55,CentOS,16,IT
+desktop-10.mcfarland.com,44.152.149.180,Debian,4,IT
+srv-44.delacruz.com,148.152.96.201,Debian,4,Sales
+desktop-11.ward.com,193.75.181.242,Windows Server,16,Finance
+laptop-79.holden.com,201.193.247.244,Windows Server,4,Sales
+db-56.horne-gillespie.com,138.150.112.143,Debian,16,Finance
+db-90.williams-harper.org,27.202.52.153,Ubuntu,4,HR
+web-75.lucas-mejia.biz,73.252.210.37,Ubuntu,32,Finance
+lt-11.morales-mcdonald.com,217.107.67.55,Ubuntu,4,IT
+srv-14.smith.com,19.86.155.200,Debian,16,HR
+email-80.joyce-hawkins.com,135.11.128.156,CentOS,16,Sales
+db-29.haynes-ritter.com,56.214.102.196,Debian,8,Sales
+laptop-31.rich.net,218.33.136.41,Ubuntu,2,Sales
+desktop-84.todd.biz,163.152.208.170,Windows Server,32,Sales
+email-47.bennett.com,162.220.172.52,Ubuntu,2,Finance
+web-33.rose.info,68.239.60.119,Ubuntu,16,IT
+email-76.jones.net,214.248.58.130,Windows Server,2,IT
+email-80.jarvis.info,168.236.163.75,CentOS,4,Finance
+lt-61.crawford-wilson.com,88.208.207.160,CentOS,16,Finance
+db-79.wallace-fisher.info,149.178.159.155,Windows Server,32,Finance
+web-76.henson.net,31.65.53.211,Windows Server,4,HR
+lt-04.contreras.com,10.206.233.48,CentOS,16,Finance
+desktop-57.james.com,11.127.24.146,Windows Server,8,IT
+srv-16.russell.com,214.142.30.92,Windows Server,4,IT
+desktop-59.barton.com,155.250.164.220,Windows Server,32,HR
+desktop-80.miller.com,56.158.245.102,Debian,2,Finance
+web-94.ford-wood.com,133.128.255.240,Windows Server,16,IT
+desktop-04.ross.com,176.95.102.218,Windows Server,8,Sales
+db-31.harris-madden.com,187.158.85.5,CentOS,4,Finance
+db-95.johnson.biz,5.81.244.237,Debian,4,IT
+srv-92.miles.biz,208.187.207.174,CentOS,4,Finance
+db-05.mccarthy.com,165.103.232.238,Ubuntu,32,Finance
+laptop-51.martin.com,46.205.101.30,Windows Server,4,Sales
+web-56.vargas.info,123.215.225.51,Ubuntu,4,Sales
+desktop-77.mack.com,125.12.251.194,Debian,32,Finance
+email-61.james.info,164.25.125.34,CentOS,8,HR
+db-72.wilson.biz,168.121.0.32,Windows Server,8,Sales
+web-14.alvarez-dodson.com,69.248.117.36,Windows Server,4,Finance
+lt-53.mcpherson-wright.biz,60.127.114.70,Debian,32,Finance
+desktop-68.johnson.com,21.177.191.11,Ubuntu,16,HR
+desktop-66.bonilla.net,9.175.216.62,Ubuntu,8,IT
+db-70.owens.biz,201.28.15.81,Debian,16,HR
+desktop-70.gilmore.biz,138.100.75.138,CentOS,2,IT
+laptop-09.lee.info,113.240.111.154,Windows Server,32,Finance
+db-55.rodriguez.info,52.250.60.87,Ubuntu,8,HR
+email-51.sanchez.com,109.53.38.196,Debian,4,Sales
+srv-02.dunn-rodriguez.org,62.200.157.199,Windows Server,4,IT
+srv-25.clark.com,218.46.89.170,Debian,16,IT
+desktop-69.stephenson-burns.org,205.9.243.202,Debian,16,HR
+email-93.gregory.com,63.136.82.15,Ubuntu,8,HR
+srv-45.ward.com,170.176.61.34,Windows Server,8,IT
+desktop-61.spence.com,49.97.203.88,Debian,8,Finance
+db-13.williams-burnett.com,153.61.110.62,Debian,32,Sales
+laptop-21.fox.com,222.64.37.180,CentOS,2,HR
+db-48.myers-copeland.com,146.30.195.22,CentOS,16,IT
+srv-07.simmons.biz,115.204.202.17,Windows Server,4,HR
+email-72.sanders.com,70.92.110.152,CentOS,4,HR
+laptop-69.bolton.com,68.102.107.248,Windows Server,8,IT
+srv-63.johnson-silva.com,54.192.187.185,Ubuntu,4,IT
+web-39.barrett.com,64.90.101.99,Ubuntu,16,Finance
+srv-20.jackson-prince.com,40.231.221.57,Windows Server,32,Finance
+desktop-06.ewing-johnson.com,47.160.104.33,Windows Server,32,Sales
+desktop-76.stanley-garcia.com,6.2.128.187,Ubuntu,8,IT
+db-36.lopez.com,21.21.28.58,CentOS,16,Sales
+srv-11.ramos.info,66.62.182.198,CentOS,4,Sales
+laptop-79.mcclure-chambers.com,136.209.172.214,Ubuntu,4,Sales
+email-38.holmes.org,14.241.10.38,Windows Server,4,Sales
+lt-75.mendez.com,138.115.217.114,Windows Server,32,Sales
+db-52.galvan-glenn.com,49.101.226.54,Windows Server,8,Sales
+desktop-27.daniels.com,17.132.86.206,Ubuntu,32,IT
+lt-46.jefferson.com,35.135.138.161,CentOS,4,HR
+lt-22.clark.net,100.137.157.12,Ubuntu,8,Sales
+web-47.smith.org,214.255.102.50,CentOS,8,Finance
+db-63.thompson-garcia.com,219.33.145.81,CentOS,2,Sales
+lt-36.hoffman.com,68.42.201.231,Windows Server,32,HR
+db-73.valdez.com,66.245.248.142,Windows Server,32,HR
+laptop-52.castillo.com,48.115.193.74,Windows Server,32,Finance
+web-11.martin-collins.com,7.197.254.138,Windows Server,8,Sales
+lt-10.walton.com,157.230.40.200,CentOS,8,HR
+email-11.lee.net,75.216.56.180,Windows Server,16,Finance
+srv-80.rogers.org,97.18.97.181,Ubuntu,16,IT
+web-93.mcclain.com,109.214.113.253,CentOS,2,HR
+laptop-66.warner.com,39.160.188.72,Debian,2,IT
+lt-83.vance.com,101.107.149.192,Windows Server,4,HR
+email-67.flores-jenkins.net,87.17.187.9,Windows Server,32,HR
+laptop-39.webb.com,185.85.4.72,Windows Server,16,IT
+db-38.chapman.com,204.10.171.221,Debian,32,HR
+db-38.martinez.com,43.0.142.14,Ubuntu,4,Finance
+laptop-38.lopez.com,221.99.197.203,Ubuntu,16,IT
+srv-67.lane-buck.biz,172.125.2.69,CentOS,8,HR
+lt-70.myers.com,118.0.15.236,Windows Server,16,HR
+lt-80.adams.com,154.126.110.128,Ubuntu,4,IT
+db-23.young-love.com,195.163.47.93,CentOS,32,IT
+db-13.hayes-dillon.biz,33.66.176.28,Debian,16,IT
+srv-74.miller-lopez.com,93.29.241.238,CentOS,4,HR
+laptop-66.hamilton.com,60.187.98.82,Ubuntu,8,Sales
+email-04.parker.net,179.161.97.56,Debian,16,HR
+email-39.odonnell.net,98.196.245.75,Ubuntu,32,HR
+web-41.howe.com,85.136.162.243,Debian,8,HR
+srv-86.brown.com,80.233.48.12,CentOS,2,Finance
+lt-88.schultz.info,15.49.13.181,Windows Server,16,Sales
+srv-81.hayes.com,159.73.109.80,Debian,32,Sales
+srv-40.vance.com,26.51.212.187,Ubuntu,2,Finance
+db-73.mitchell.com,174.203.93.204,Debian,32,IT
+lt-67.cook.net,164.96.118.196,Windows Server,4,IT
+email-70.summers.org,65.67.185.180,Debian,2,HR
+db-62.wood.com,135.255.112.23,Ubuntu,8,Sales
+lt-95.spencer-kline.com,83.173.44.30,Windows Server,32,IT
+web-89.clark.com,43.11.16.85,Windows Server,2,IT
+srv-48.joseph.com,54.129.142.192,Debian,4,IT
+web-97.phillips.org,208.56.173.185,CentOS,2,HR
+lt-17.wright.com,3.94.139.173,Windows Server,8,IT
+desktop-00.pace.info,198.28.248.160,CentOS,32,Finance
+desktop-67.young.com,43.122.214.19,Debian,8,IT
+email-73.mccoy.info,219.105.35.4,Debian,8,IT
+srv-63.becker.com,124.104.57.74,Ubuntu,32,Sales
+lt-59.lamb.com,131.197.229.9,Windows Server,2,Finance
+lt-28.sanchez.org,155.61.171.100,Windows Server,4,Finance
+desktop-92.yu-brown.info,43.83.72.126,Debian,16,IT
+desktop-95.villarreal.com,158.149.60.81,Windows Server,2,IT
+web-90.griffin.net,217.181.98.157,Windows Server,32,IT
+email-79.mccoy.com,14.54.48.18,Ubuntu,32,IT
+email-42.castro.net,118.117.200.4,Debian,16,IT
+lt-66.martinez-jones.info,223.179.39.9,Debian,4,Sales
+db-60.mahoney.com,62.219.87.204,Debian,8,HR
+db-53.thomas.com,168.229.238.46,Windows Server,32,IT
+srv-42.horn.com,184.105.89.6,Windows Server,4,HR
+email-96.diaz.com,185.44.61.118,Debian,8,Finance
+srv-87.valdez.com,189.3.143.165,CentOS,32,HR
+email-42.johnson.com,84.212.77.45,Debian,4,Sales
+lt-64.livingston.com,63.24.117.212,CentOS,32,Sales
+desktop-46.bautista.info,155.249.30.51,Ubuntu,32,IT
+db-75.castillo.org,187.25.167.254,Debian,4,Finance
+email-68.brown-shaw.com,197.36.86.77,Debian,8,HR
+db-19.short.com,45.34.154.33,Windows Server,8,Finance
+desktop-78.lee.biz,94.51.30.212,Ubuntu,4,IT
+laptop-67.wilcox.com,160.220.218.53,Windows Server,4,Sales
+srv-53.quinn.com,155.23.211.158,Windows Server,2,Finance
+lt-77.david.com,84.216.54.8,Debian,2,Sales
+laptop-46.newman.com,95.132.243.177,Debian,32,HR
+laptop-85.adkins.com,99.112.166.24,Windows Server,4,IT
+laptop-20.pierce-martinez.biz,56.68.191.118,CentOS,4,Finance
+lt-90.owens-olson.biz,158.63.83.215,CentOS,2,IT
+desktop-15.newman.com,36.163.64.65,Debian,16,Sales
+db-25.mitchell.com,211.204.238.201,Windows Server,8,Finance
+desktop-75.evans.info,186.33.206.168,Ubuntu,2,Finance
