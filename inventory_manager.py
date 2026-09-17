@@ -2,8 +2,12 @@ import pandas as pd
 import schedule
 import time
 
-def load_inventory(path: str = "inventory.csv") -> pd.DataFrame:
-    return pd.read_csv(path)
+def load_inventory(path: str = "inventory.csv") -> pd.DataFrame | None:
+    try:
+        return pd.read_csv(path)
+    except FileNotFoundError:
+        print(f"Error: the inventory file '{path}' was not found.")
+        return None
 
 
 def filter_vulnerable_servers(df: pd.DataFrame) -> pd.DataFrame:
@@ -18,6 +22,11 @@ def export_to_excel(df: pd.DataFrame, path: str = "vulnerable_servers_report.xls
 
 def generate_monthly_report() -> None:
     inventory = load_inventory()
+
+    if inventory is None:
+        print("Could not generate monthly report: inventory file is missing.")
+        return
+
     vulnerable = filter_vulnerable_servers(inventory)
     export_to_excel(vulnerable)
     print("Monthly report generated successfully.")
@@ -33,16 +42,20 @@ def run_scheduler() -> None:
 
 
 if __name__ == "__main__":
+
     inventory = load_inventory()
 
-    vulnerable = filter_vulnerable_servers(inventory)
-    print(f"Vulnerable servers found: {len(vulnerable)}")
-    print(vulnerable.head())
+    if inventory is None:
+        print("Could not proceed: inventory file is missing.")
+    else:
+        vulnerable = filter_vulnerable_servers(inventory)
+        print(f"Vulnerable servers found: {len(vulnerable)}")
+        print(vulnerable.head())
 
-    print("\nServers by department:")
-    print(count_by_department(inventory))
+        print("\nServers by department:")
+        print(count_by_department(inventory))
 
-    export_to_excel(vulnerable)
-    print("\nExcel report generated: vulnerable_servers_report.xlsx")
+        export_to_excel(vulnerable)
+        print("\nExcel report generated: vulnerable_servers_report.xlsx")
 
-    # run_scheduler() Only uncomment this line if you want to enable the scheduler for monthly reports
+        # run_scheduler() Only uncomment this line if you want to enable the scheduler for monthly reports

@@ -17,8 +17,13 @@ def check_ping(ip: str) -> bool:
         return False
 
 
-def check_disk_space(path: str = "C:\\") -> float:
+def check_disk_space(path: str = "C:\\") -> float | None:
+
+    try: 
+        total, used, free = shutil.disk_usage(path)
+        percentage_free = (free / total) * 100
+        return percentage_free
+    except FileNotFoundError:
+        print(f"Error: The path '{path}' does not exist.")
+        return None 
     
-    total, used, free = shutil.disk_usage(path)
-    percentage_free = (free / total) * 100
-    return percentage_free

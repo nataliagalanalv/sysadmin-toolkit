@@ -35,7 +35,9 @@ def main() -> None:
         elif option == "2":
             path: str = input("Enter the disk path to check (default C:\\): ") or "C:\\"
             percentage_free = check_disk_space(path)
-            if percentage_free >= 20:
+            if percentage_free is None:
+                print(f"Could not check disk space for {path}.")
+            elif percentage_free >= 20:
                 print(f"Disk space at {path} is sufficient.")
             else:
                 print(f"Warning: less than 20% free disk space at {path}.")
